@@ -8,9 +8,9 @@
 > Soon description of the project
 
 <div style="width:100%; display:flex; align-items:center; gap:16px">
-<img src="./src/assets/preview/mobile-preview-1.png" width="33%">
-<img src="./src/assets/preview/mobile-preview-2.png" width="33%">
-<img src="./src/assets/preview/mobile-preview-3.png" width="33%">
+<img src="./src/assets/preview/mobile-preview-1.png" width="30%">
+<img src="./src/assets/preview/mobile-preview-2.png" width="30%">
+<img src="./src/assets/preview/mobile-preview-3.png" width="30%">
 </div>
 
 ## Detalhes do aplicativo
