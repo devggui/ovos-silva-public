@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Ovos Silva",
+    "slug": "ovos-silva-delivery",
+    "version": "1.0.15",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eab308"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 15,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#eab308"
+      },
+      "package": "com.anonymous.silvaeggs"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd819a42-33f5-4155-bc31-17f3e64eb9b1"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/dd819a42-33f5-4155-bc31-17f3e64eb9b1"
+    }
+  }
+}
